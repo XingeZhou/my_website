@@ -7,7 +7,7 @@ description: U.K. and European natural gas prices are hitting records, forcing a
 draft: false
 image: oil.jpg
 keywords: ""
-slug: Energy prices are soaring. Should you be worried?
+slug: three
 title: Energy prices are soaring. Should you be worried?
 ---
 Oil prices are likewise climbing higher, and altogether the surge has majorly poked the big inflation bear. Eurozone headline inflation just came in at a 13-year high, and investors are questioning how long it will last, what it means, and what the policy response might be.

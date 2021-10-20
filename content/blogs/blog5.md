@@ -7,7 +7,7 @@ description: Stocks just had their best day since March. It was starting to seem
 draft: false
 image: pic09.jpg
 keywords: ""
-slug: Key themes to watch during Q3 earnings season
+slug: two
 title: Key themes to watch during Q3 earnings season
 ---
 Before we dig into our thoughts on earnings, we would be remiss not to address the most notable data release of the week: September inflation figures. The Consumer Price Index (CPI) print came in close to what was expected: Headline CPI was +5.4% year-over-year, and Core CPI was +4.0% year-over-year. From August to September, core rose only 0.2%—more in-line with “normal” versus the eye-popping prints we saw over the summer.

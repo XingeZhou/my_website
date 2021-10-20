@@ -7,7 +7,7 @@ description: For over 150 years, our business has evolved around the people we s
 draft: false
 image: GS.png
 keywords: ""
-slug: Goldman Sachs Introduction
+slug: tempus
 title: Goldman Sachs Introduction
 ---
 

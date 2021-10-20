@@ -38,9 +38,9 @@ params:
     copyright: Vivian Production
     enable: yes
     #quicklinks:
-     # - alt: HTML5 UP
-      #  text: 'Design: '
-       # url: https://www.html5up.net
+     #- alt: HTML5 UP
+      # text: 'Design: '
+       #url: https://www.html5up.net
     social:
      # - icon: fa-twitter
       #  label: Twitter
@@ -60,12 +60,12 @@ params:
   image: ''
   name: Xinge Zhou
   navigation:
-    button1:
-      - name: Get Started
-      url: blogs
-   button2:
-     - name: Log In
-      url: '#'
+    #button1:
+     # - name: Get Started
+      #  url: blogs
+    #button2:
+     #- name: Log In
+      # url: '#'
     links:
       - name: Home
         url: '#'
@@ -84,27 +84,27 @@ params:
       - image: selfie.jpg.jpg
         subtitle: Biography
         title: About me
-        url: blogs/About me
+        url: blogs/aliquam
       - image: Goldman_Sachs.png
         #subtitle: Feugiat Amet Tempus
         title: Goldman Sachs Introduction
-        url: blogs/Goldman Sachs Introduction
+        url: blogs/tempus
       - image: pic03.jpg
         #subtitle: Lorem Etiam Nullam
         title: The Growing Importance of ESG
-        url: blogs/The Growing Importance of ESG
+        url: blogs/magna
       - image: pic04.jpg
         #subtitle: Nisl Sed Aliquam
         title: The Changing Face of Industrial Properties
-        url: blogs/The Changing Face of Industrial Properties
+        url: blogs/one
       - image: pic05.jpg
         #subtitle: Ipsum Dolor Sit Amet
         title: Key themes to watch during Q3 earnings season
-        url: blogs/Key themes to watch during Q3 earnings season
+        url: blogs/two
       - image: pic06.jpg
        # subtitle: Feugiat Amet Tempus
         title: Energy prices are soaring. Should you be worried?
-        url: blogs/Energy prices are soaring. Should you be worried?
+        url: blogs/three
   two:
     buttonText: Get Started
     enable: yes

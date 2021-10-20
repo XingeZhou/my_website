@@ -7,7 +7,7 @@ description: Environmental, social and governance (ESG) factors play an increasi
 draft: false
 image: pic08.jpg
 keywords: ""
-slug: The Growing Importance of ESG
+slug: magna
 title: The Growing Importance of ESG
 ---
 What Is ESG? ESG is the concept that many factors outside traditional financial analysis can be used to assess a company and its performance. Each letter represents a different area to examine.

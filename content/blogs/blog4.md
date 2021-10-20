@@ -7,7 +7,7 @@ description: Pacific Coast Capital Partners focuses on measuring its ESG efforts
 draft: false
 image: pic07.jpg
 keywords: ""
-slug: The Changing Face of Industrial Properties
+slug: one
 title: The Changing Face of Industrial Properties
 ---
 Industrial real estate looks far different than it did just two years ago.

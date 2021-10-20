@@ -7,7 +7,7 @@ description: I'm Xinge Zhou. I was born and raised in China and I'm currently pu
 draft: false
 image: selfie2.jpg
 keywords: ""
-slug: About me 
+slug: aliquam
 title: About me 
 ---
 I think I’m a person who always has a can-do attitude and tends to take ownership proactively. These are the two personal attributes that made me stand out from my peers. 
