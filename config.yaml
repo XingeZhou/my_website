@@ -1,0 +1,113 @@
+baseURL: https://vivian-zhou.netlify.app/ 
+languageCode: en-us
+title: Portfolio website for Xinge Zhou
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner:
+    buttonText: Get Started
+    #subtitle: |-
+      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      #AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Xinge Zhou
+  blog: {}
+  contact:
+    address:
+      - city: London
+        country: UK
+        street: Kingsway
+        title: 54 Kings
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: xzhou.mfa@london.com
+        title: Email
+    enable: yes
+    phone:
+      - phone: (+44) 738-366-0000
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description: Your description
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: Vivian Production
+    enable: yes
+    #quicklinks:
+     # - alt: HTML5 UP
+      #  text: 'Design: '
+       # url: https://www.html5up.net
+    social:
+     # - icon: fa-twitter
+      #  label: Twitter
+       # url: https://www.twitter.com
+      #- icon: fa-facebook
+       # label: Facebook
+        #url: https://www.facebook.com
+      #- icon: fa-instagram
+       # label: Instagram
+        #url: https://www.instagram.com
+      - icon: fa-github
+        label: GitHub
+        url: https://github.com/XingeZhou
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: linkedin.com/in/xinge-vivian-zhou-24aa271a6
+  image: ''
+  name: Xinge Zhou
+  navigation:
+    #button1:
+     # - name: Get Started
+      #  url: blogs
+   # button2:
+    #  - name: Log In
+     #   url: '#'
+    links:
+      - name: Home
+        url: '#'
+      - name: Blogs
+        url: blogs
+     # - name: Generic Blog
+      #  url: blogs/ipsum
+      #- name: Elements
+       # url: elements.html
+    menu: Menu
+    subtitle: Personal website
+    title: Xinge Zhou
+  tiles:
+    enable: yes
+    showcase:
+      - image: selfie.jpg.jpg
+        subtitle: Biography
+        title: About me
+        url: blogs/About me
+      - image: Goldman_Sachs.png
+        #subtitle: Feugiat Amet Tempus
+        title: Goldman Sachs Introduction
+        url: blogs/Goldman Sachs Introduction
+      - image: pic03.jpg
+        #subtitle: Lorem Etiam Nullam
+        title: The Growing Importance of ESG
+        url: blogs/The Growing Importance of ESG
+      - image: pic04.jpg
+        #subtitle: Nisl Sed Aliquam
+        title: The Changing Face of Industrial Properties
+        url: blogs/The Changing Face of Industrial Properties
+      - image: pic05.jpg
+        #subtitle: Ipsum Dolor Sit Amet
+        title: Key themes to watch during Q3 earnings season
+        url: blogs/Key themes to watch during Q3 earnings season
+      - image: pic06.jpg
+       # subtitle: Feugiat Amet Tempus
+        title: Energy prices are soaring. Should you be worried?
+        url: blogs/Energy prices are soaring. Should you be worried?
+  two:
+    buttonText: Get Started
+    enable: yes
+    subtitle: "Nice to meet you in London"
+    title: Xinge Zhou
+    url: blogs
