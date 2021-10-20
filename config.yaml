@@ -29,10 +29,10 @@ params:
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
-  error404:
-    heading: Page couldn't be found
-    text: Please visit [this page](/)
+  #description: Your description
+  #error404:
+    #heading: Page couldn't be found
+    #text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
     copyright: Vivian Production
@@ -54,9 +54,9 @@ params:
       - icon: fa-github
         label: GitHub
         url: https://github.com/XingeZhou
-      - icon: fa-linkedin
-        label: LinkedIn
-        url: linkedin.com/in/xinge-vivian-zhou-24aa271a6
+      #- icon: fa-linkedin
+       # label: LinkedIn
+        #url: linkedin.com/in/xinge-vivian-zhou-24aa271a6
   image: ''
   name: Xinge Zhou
   navigation:
